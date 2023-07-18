@@ -1,2 +1,2 @@
-# amazon-clone
-amazon website
+# music player
+music player
